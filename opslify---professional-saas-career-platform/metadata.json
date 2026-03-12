@@ -1,0 +1,5 @@
+{
+  "name": "OPSLIFY - Professional SaaS Career Platform",
+  "description": "A comprehensive SaaS platform for job seekers featuring AI-powered resume building, cover letter generation, and a complete job management CRM with admin controls, now integrated with Supabase for robust backend data persistence.",
+  "requestFramePermissions": []
+}
